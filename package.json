@@ -2,7 +2,7 @@
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://caikigalv.github.io/vite-project/",
+  "homepage": "https://caikigalv.github.io/vite-project-Bloco-de-Notas/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
